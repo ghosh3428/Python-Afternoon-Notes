@@ -1,0 +1,40 @@
+1) 
+Write a Python program to print the following string in a specific format 
+Output :
+
+Twinkle, twinkle, little star,
+	How I wonder what you are! 
+		Up above the world so high,   		
+		Like a diamond in the sky. 
+Twinkle, twinkle, little star, 
+	How I wonder what you are
+
+2) 
+Write a Python program which accepts the radius of a circle from the user and compute the area.
+
+3) 
+Write a Python program that accepts an integer (n) and computes the value of n+nn+nnn.
+
+4)
+Write a Python program to get the volume of a sphere with radius 6.
+
+5)
+Write a Python program that will accept the base and height of a triangle and compute the area.
+
+6)
+Write a Python program to display your details like name, age, address in three different lines.
+
+7)
+Write a Python program to solve (x + y) * (x + y). 
+
+Test Data : x = 4, y = 3
+Expected Output : (4 + 3) ^ 2) = 49
+
+8)
+ Write a Python program to convert height (in feet and inches) to centimeters.
+
+9)
+Write a Python program to calculate the hypotenuse of a right angled triangle.
+
+10)
+Write a Python program to convert seconds to day, hour, minutes and seconds.

@@ -1,0 +1,99 @@
+Operator:
+Relational Opeartors:
+result will be in boolean format(True/False)
+
+<
+<=
+>
+>=
+!=
+==
+
+10>2 		=> True
+
+10>10 		=> False
+
+10>=10 		=>True
+10>10(False)
+or
+10==10(True)
+
+10>=11		=>False
+10>11(False)
+or
+10==11(False)
+
+
+Logical Opeartors : when we want to check multiple expressions
+
+and : result is True when  both the condition are true
+or    : result is True when anyone of the condition is True
+not  : result is True when condition is false and result is false when condition is true
+
+age: 15 - 30
+
+age>= 15  and  age<=30
+
+
+A	B	And	Or
+true	true	true	true
+false	true	false	true
+true	false	false	true
+false	false	false	false
+
+
+Conditional Contruct :
+
+if ...else
+
+if(condition):
+	true code
+else:
+	false code
+
+age > 18
+	I can Drive
+age<18
+	i cannot drive
+
+
+
+problem : i need to go from jadavpur to airport
+
+1) Drive my car
+2) Drive my bike
+3) book a cab
+4) book a bike
+5) take a bus
+
+
+
+accept two numbers and display the bigger value
+
+first
+second
+
+10
+8
+
+if first> second:
+	first
+else:
+	second
+
+
+
+accept marks of 3 subjects(physics , chemistry , biology)
+calculate total
+calculate percentage
+check if the student has passed or failed  
+
+
+accept basic salary of an employee and print the below details
+basic	-
+HRA	- 35% of basic
+DA	- 70% of basic
+TA	- 20% of basic
+PF	- 13% of basic
+tax 	- 18% basic
+net 	- basic +hra + da + ta -pf - tax
