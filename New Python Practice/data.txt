@@ -1,0 +1,93 @@
+Program : set of Instruction
+
+Language : universal medium of communication
+
+
+low level language : language which a computer can understand
+binary 
+assembly
+bytecode
+
+high level language : langauge which user can understand -> special format(english based)
+Programming language : Compiled
+	c
+	c++
+	java
+	c#
+Scripting Language: interpreted
+	javascript
+	python
+
+Compiler -> converts a high level into low level language(all the code as a single unit)
+Interpreter -> converts a high level into low level language(line by line)
+
+Number System
+Binary		: 0,1				(Computer)	
+Octal		: 0 ,1,2,3,4,5,6,7		
+Decimal		: 0,1,2,3,4,5,6,7,8,9			(Human)
+Hexadecimal	: 0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F
+
+385(decimal) = 110000001(binary)
+
+385	1
+192	0
+96	0
+48	0
+24	0
+12	0
+6	0
+3	1
+1	1
+0
+
+
+A
+
+
+
+
+High level language : 
+can be execute in two form
+CUI based -> command user interface
+GUI based -> graphical user interface
+	IDE -> integrated devlopment environment
+	application
+
+Python IDE -> 
+	IDLE
+	PYCHARM
+	JUPITER
+
+
+C, C++ -> CodeBlocks
+	DevC/C++
+	TurboC/C++
+
+
+a = 10
+b = 20
+c = a+ b
+
+
+I		P		O 		cycle
+input		process		output
+
+keyboard		processor		monitor
+mouse				speaker
+mic				printer
+touch screen			projector
+scanner
+
+
+Memory : storage space 
+RAM : temporary(data can be changed)
+ROM : Permanent(data cannot be changed)
+
+
+
+RAM saves the input Data
+Program -> define how that input data need to be processed by processor
+
+
+
+Variable : a named RAM memory location which is used to save a data and this data can be changed
